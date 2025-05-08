@@ -1,0 +1,6 @@
+tensorflow>=2.4.0
+numpy>=1.19.0
+pillow>=7.0.0
+scikit-learn>=0.24.0
+tqdm>=4.50.0
+uuid>=1.30
