@@ -65,7 +65,7 @@ Após a execução, as imagens serão renomeadas para uma sequência numerada (0
 
 ## 📊 Casos de Uso
 
-Fotógrafos: Organizar sessões de fotos por composição visual ou tema;
-Designers: Agrupar elementos de design semelhantes;
-Pesquisadores: Organizar datasets de imagens para treinamento de ML;
-Coleções Pessoais: Ordenar fotos por similaridade antes de criar álbuns.
+- Fotógrafos: Organizar sessões de fotos por composição visual ou tema;
+- Designers: Agrupar elementos de design semelhantes;
+- Pesquisadores: Organizar datasets de imagens para treinamento de ML;
+- Coleções Pessoais: Ordenar fotos por similaridade antes de criar álbuns.
